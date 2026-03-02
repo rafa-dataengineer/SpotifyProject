@@ -1,0 +1,9 @@
+{
+	"name": "spotifyprojectdataeng",
+	"location": "polandcentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "eea8d9db-6ba7-432b-bd5b-b6b14739ccb7",
+		"tenantId": "0ff6106d-7f47-446c-b26b-f692b7f97be5"
+	}
+}
